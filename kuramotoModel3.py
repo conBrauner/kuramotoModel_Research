@@ -1,5 +1,5 @@
 #=======================================================
-# KURAMOTO MODEL    Modified by Connor Braun, May 2020
+# KURAMOTO MODEL Modified by Connor Braun, May 2020
 #=======================================================
 
 # Kuramoto class originally authored by Dr. Dawid Laszuk, modified by Connor Braun for research/personal interest purposes
